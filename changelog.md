@@ -9,4 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2023-06-70
 ### Added
 - Added Changelog.md 
+- Added nova Branch e novo arquivo txt 
+
 
